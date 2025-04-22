@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Dev'Search' é um programa feito exclusivamente para Desenvolvedores fazerem pesquisas e tirar dúvidas sobre o mundo tecnológico.
+Conta com dois tipos de interface (Tema Claro e Tema Escuro), o projeto busca satisfazer todo o gosto do usuário
 
 
 ## :memo: Licença
