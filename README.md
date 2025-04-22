@@ -12,7 +12,7 @@ Programa exclusivo e responsivo, feito por Gabriel Almeida em 2025. <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="./img/Spoiler.jpg">
+  <img alt="License" src="https://cdn.discordapp.com/attachments/1130545113643372694/1364339991366340659/image.png?ex=68095022&is=6807fea2&hm=3dacaa980932e446f5a3393c8c921ea5034e36ad3a51cb14017a0a77d6a2ca5d&">
 </p>
 
 <br>
