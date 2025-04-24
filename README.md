@@ -12,7 +12,7 @@ Programa exclusivo e responsivo, feito por Gabriel Almeida em 2025. <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://cdn.discordapp.com/attachments/1130545113643372694/1364339991366340659/image.png?ex=68095022&is=6807fea2&hm=3dacaa980932e446f5a3393c8c921ea5034e36ad3a51cb14017a0a77d6a2ca5d&">
+  <img alt="License" src="https://cdn.discordapp.com/attachments/838227106345254932/1364781808251834398/Imagem_do_WhatsApp_de_2025-04-23_as_20.26.06_776b566a.jpg?ex=680aeb9b&is=68099a1b&hm=75e3e91fa255dc01aa8bf128561da333fa652cd0a40843d7e33b18433c9efc05&">
 </p>
 
 <br>
@@ -33,7 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Dev'Search' é um programa feito exclusivamente para Desenvolvedores fazerem pesquisas e tirar dúvidas sobre o mundo tecnológico.
-Conta com dois tipos de interface (Tema Claro e Tema Escuro), o projeto busca satisfazer todo o gosto do usuário
+Conta com dois tipos de interface (Tema Claro e Tema Escuro), o projeto busca satisfazer todo o gosto do usuário.
+Além de um Design e Layout simples, intuitivo e bonito, dedicado a público de todas as idades e diferentes gostos pessoais.
 
 
 ## :memo: Licença
